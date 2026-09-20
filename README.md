@@ -48,15 +48,6 @@ JSON         12 mins               ▒░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-<!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
-  <div>
-    <picture>
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph-three-mu.vercel.app/graph?username=ByFS&theme=xcode&bg_color=FF000000&color=000000&hide_border=true">
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph-three-mu.vercel.app/graph?username=ByFS&theme=xcode&bg_color=FF000000&color=FFFFFF&hide_border=true">
-      <img src="https://github-readme-activity-graph-three-mu.vercel.app/graph?username=ByFS&theme=xcode&bg_color=FF000000&color=000000&hide_border=true">
-    </picture>
-  </div>
-
   <!-- Technology Stack Icons -->
   <div>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40">
