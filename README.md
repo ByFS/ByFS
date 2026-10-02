@@ -5,7 +5,6 @@
 
   <!-- https://github.com/antonkomarev/github-profile-views-counter -->
   <div>
-    <img src="https://hit.yhype.me/github/profile?account_id=74356692">
     <img src="https://komarev.com/ghpvc/?username=ByFS&color=0e75b6&style=flat&abbreviated=true">
   </div>
 
