@@ -34,12 +34,11 @@
   <!--START_SECTION:waka-->
 
 ```txt
-From: 06 October 2026 - To: 13 October 2026
+From: 07 October 2026 - To: 14 October 2026
 
-Total Time: 5 hrs 9 mins
+Total Time: 2 hrs 42 mins
 
-JSON         2 hrs 50 mins         ██████████▓░░░░░░░░░░░░░░   43.00 %
-Other        1 hr 27 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.06 %
+Other        1 hr 48 mins          ██████████░░░░░░░░░░░░░░░   40.08 %
 ```
 
 <!--END_SECTION:waka-->
