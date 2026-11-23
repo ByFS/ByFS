@@ -11,9 +11,9 @@
   <!-- https://github.com/ryo-ma/github-profile-trophy -->
   <div>
     <picture>
-      <source media="(prefers-color-scheme: light)" srcset="https://trophy.ryglcloud.net/?username=ByFS&no-frame=true&column=-1&margin-h=10&margin-w=3&theme=flat&no-bg=true&no-frame=true&rank=-?">
-      <source media="(prefers-color-scheme: dark)" srcset="https://trophy.ryglcloud.net/?username=ByFS&no-frame=true&column=-1&margin-h=10&margin-w=3&theme=discord&no-bg=true&no-frame=true&rank=-?">
-      <img src="https://trophy.ryglcloud.net/?username=ByFS&no-frame=true&column=-1&margin-h=10&margin-w=3&theme=flat&no-bg=true&no-frame=true&rank=-?">
+      <source media="(prefers-color-scheme: light)" srcset="https://trophy.ryglcloud.net/?username=ByFS&no-frame=true&column=-1&margin-h=10&margin-w=3&theme=flat&no-bg=true&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C">
+      <source media="(prefers-color-scheme: dark)" srcset="https://trophy.ryglcloud.net/?username=ByFS&no-frame=true&column=-1&margin-h=10&margin-w=3&theme=discord&no-bg=true&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C">
+      <img src="https://trophy.ryglcloud.net/?username=ByFS&no-frame=true&column=-1&margin-h=10&margin-w=3&theme=flat&no-bg=true&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C">
     </picture>
   </div>
 
