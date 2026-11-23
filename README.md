@@ -11,9 +11,9 @@
   <!-- https://github.com/ryo-ma/github-profile-trophy -->
   <div>
     <picture>
-      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy-orcin-eta.vercel.app/?username=ByFS&no-frame=true&column=-1&margin-h=10&margin-w=3&theme=flat&no-bg=true&no-frame=true&rank=-?">
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy-orcin-eta.vercel.app/?username=ByFS&no-frame=true&column=-1&margin-h=10&margin-w=3&theme=discord&no-bg=true&no-frame=true&rank=-?">
-      <img src="https://github-profile-trophy-orcin-eta.vercel.app/?username=ByFS&no-frame=true&column=-1&margin-h=10&margin-w=3&theme=flat&no-bg=true&no-frame=true&rank=-?">
+      <source media="(prefers-color-scheme: light)" srcset="https://trophy.ryglcloud.net/?username=ByFS&no-frame=true&column=-1&margin-h=10&margin-w=3&theme=flat&no-bg=true&no-frame=true&rank=-?">
+      <source media="(prefers-color-scheme: dark)" srcset="https://trophy.ryglcloud.net/?username=ByFS&no-frame=true&column=-1&margin-h=10&margin-w=3&theme=discord&no-bg=true&no-frame=true&rank=-?">
+      <img src="https://trophy.ryglcloud.net/?username=ByFS&no-frame=true&column=-1&margin-h=10&margin-w=3&theme=flat&no-bg=true&no-frame=true&rank=-?">
     </picture>
   </div>
 
@@ -87,11 +87,11 @@ TOML         19 mins               █▒░░░░░░░░░░░░░
 
   <!-- Additional tech stack icons -->
   <div>
-    <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="kubernetes" width="65" height="65">
-    <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="docker" width="65" height="65">
-    <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="nginx" width="65" height="65">
-    <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="graphql" width="65" height="65">
-    <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="mysql" width="65" height="65">
+    <img src="https://techstack-generator-tsg.vercel.app/kubernetes-icon.svg" alt="kubernetes" width="65" height="65">
+    <img src="https://techstack-generator-tsg.vercel.app/docker-icon.svg" alt="docker" width="65" height="65">
+    <img src="https://techstack-generator-tsg.vercel.app/nginx-icon.svg" alt="nginx" width="65" height="65">
+    <img src="https://techstack-generator-tsg.vercel.app/graphql-icon.svg" alt="graphql" width="65" height="65">
+    <img src="https://techstack-generator-tsg.vercel.app/mysql-icon.svg" alt="mysql" width="65" height="65">
   </div>
 
   <h4>I ❤️ FOSS</h4>
