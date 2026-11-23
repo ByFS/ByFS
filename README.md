@@ -10,8 +10,11 @@
 
   <!-- https://github.com/ryo-ma/github-profile-trophy -->
   <div>
-    <img src="https://trophy.ryglcloud.net/?username=ByFS&no-frame=true&column=-1&margin-h=10&margin-w=3&theme=flat&no-bg=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C#gh-light-mode-only">
-    <img src="https://trophy.ryglcloud.net/?username=ByFS&no-frame=true&column=-1&margin-h=10&margin-w=3&theme=discord&no-bg=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C#gh-dark-mode-only">
+    <picture>
+      <source media="(prefers-color-scheme: light)" srcset="https://trophy.ryglcloud.net/?username=ByFS&no-frame=true&column=-1&margin-h=10&margin-w=3&theme=flat&no-bg=true&rank=SECRET%2CSSS%2CSS%2CS%2CAAA%2CAA%2CA%2CB%2CC">
+      <source media="(prefers-color-scheme: dark)" srcset="https://trophy.ryglcloud.net/?username=ByFS&no-frame=true&column=-1&margin-h=10&margin-w=3&theme=discord&no-bg=true&rank=SECRET%2CSSS%2CSS%2CS%2CAAA%2CAA%2CA%2CB%2CC">
+      <img src="https://trophy.ryglcloud.net/?username=ByFS&no-frame=true&column=-1&margin-h=10&margin-w=3&theme=flat&no-bg=true&rank=SECRET%2CSSS%2CSS%2CS%2CAAA%2CAA%2CA%2CB%2CC">
+    </picture>
   </div>
 
   <!-- https://github.com/stats-organization/github-stats-extended -->
